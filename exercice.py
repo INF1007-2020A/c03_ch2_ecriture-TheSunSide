@@ -6,7 +6,7 @@ def majuscule(mot):
         # TODO completer la fonction ici
         if(ord(lettre) >= 97 & ord(lettre) <= 122)
         {
-            res
+            resultat = chr()
         }
         resultat += lettre
     return mot
