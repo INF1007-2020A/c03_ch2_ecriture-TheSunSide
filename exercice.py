@@ -5,10 +5,8 @@ def majuscule(mot):
     for lettre in mot:
         # TODO completer la fonction ici
         nombre = ord(lettre)
-        if(ord(nombre) >= 97 & ord(nombre) <= 122)
-        {
-            resultat = chr(nombre)
-        }
+        if(ord(nombre) >= 97 & ord(nombre) <= 122) resultat = chr(nombre)
+       
         resultat += lettre
     return mot
 
